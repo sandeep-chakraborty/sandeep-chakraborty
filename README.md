@@ -1,14 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sandeep</h1>
-<h3 align="center">I code.</h3>
+# Hi, I'm Sandeep! 🙋🏽‍♂️
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep-chakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep-chakraborty" /> </p>
+I'm a builder and reader based in India doing my best to figure out what I care about in life. 🌳
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeep-chakraborty" alt="sandeep-chakraborty" /></a> </p>
+## Hours of scripting can save you minutes of manual labor...
 
-<p align="left"> <a href="https://twitter.com/isitsandeep" target="blank"><img src="https://img.shields.io/twitter/follow/isitsandeep?logo=twitter&style=for-the-badge" alt="isitsandeep" /></a> </p>
+...but hundreds of hours for everyone else.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/isitsandeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isitsandeep" height="30" width="40" /></a>
-<a href="https://hashnode.com/@onlysadeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@onlysadeep" height="30" width="40" /></a>
-</p>
+I mean, that's not why I do it. It's just fun. But it's a great way to justify it :)
